@@ -17,6 +17,21 @@ O escopo do projeto envolve o desenvolvimento de um aplicativo RideShare em Reac
 - Reduzir o estresse decorrente do deslocamento diário.
 - Contribuir para a redução das emissões de gases poluentes.
 
+## Como Usar
+
+- Espera-se que você ja tenha instalado: Node.JS, Expo, MongoDB;
+- Clone este repositório no seu VSCode;
+- Abra dois terminais, um na raiz do projeto e outro na pasta "server";
+- Rode "npm install" nos dois projetos (Terminais);
+- No terminal "server" rode: "node app.js";
+
+- Abra um novo terminal e descubra seu ip usando "ipconfig";
+- Substitua as chamadas de API no projeto react native para o ip do seu computador;
+
+- No terminal do app react native rode: "expo Start";
+- Leia o QR Code que será gerado no aplicativo expo go no seu celular(ambos devem estar na mesma rede!);
+- Teste o nosso app!
+
 ## Integrantes
 
 - Adonis Vinicius Guedes da Silva
